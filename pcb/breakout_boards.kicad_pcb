@@ -1165,7 +1165,7 @@
 			(net 77 "/single_encoder.vss")
 			(pinfunction "MP")
 			(pintype "passive")
-			(uuid "e1bb9db6-56f5-4356-ad03-9c0ca8262ceb")
+			(uuid "309ff1a4-043e-4f0f-ae27-b83c3c047333")
 		)
 		(pad "S1" thru_hole circle
 			(at 14.5 0 270)
@@ -42728,6 +42728,32 @@
 			(font
 				(size 1.7 1.7)
 				(thickness 0.25)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "| DVNG |"
+		(at 104.75 18.5 90)
+		(layer "B.SilkS")
+		(uuid "699f83b8-e907-48fa-8957-9f8389f6c68b")
+		(effects
+			(font
+				(size 2.5 2.5)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "| DVNG |"
+		(at 130.75 44.5 90)
+		(layer "B.SilkS")
+		(uuid "7efee72f-9144-4894-9c83-485954ee06cc")
+		(effects
+			(font
+				(size 2.5 2.5)
+				(thickness 0.5)
+				(bold yes)
 			)
 			(justify left bottom mirror)
 		)
